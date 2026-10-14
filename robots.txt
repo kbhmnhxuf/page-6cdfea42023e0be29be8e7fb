@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-4052c29d7a.vmzinc.cn/sitemap.xml
